@@ -1,7 +1,7 @@
 # AI_Web_Scraper
 ## Overview
 
-The AI Web scraper is a cutting-edge tool that leverages the advanced natural language processing capabilities of LLaMA 3.1 (Large Language Model) to revolutionize web data extraction and analysis. This powerful solution seamlessly combines web scraping techniques with state-of-the-art AI to:
+The AI Web scraper is a cutting-edge tool that leverages the advanced natural language processing capabilities of Llama 3.1 (Large Language Model) to revolutionize web data extraction and analysis. This powerful solution seamlessly combines web scraping techniques with state-of-the-art AI to:
 
 -Intelligently navigate and parse complex web structures
 
