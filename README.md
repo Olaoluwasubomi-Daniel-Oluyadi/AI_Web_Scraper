@@ -13,6 +13,6 @@ The AI Web scraper is a cutting-edge tool that leverages the advanced natural la
 
 -Generate insightful summaries and reports from the collected data
 
-By harnessing Llama 3.1, the AI Webscraper significantly outperforms traditional scraping methods, offering unparalleled efficiency and depth in web data acquisition and interpretation. This tool is ideal for researchers, marketers, data scientists, and businesses seeking to gain valuable insights from the vast landscape of online information
+By harnessing Llama 3.1, the AI Webscraper significantly outperforms traditional scraping methods, offering unparalleled efficiency and depth in web data acquisition and interpretation. This tool is ideal for researchers, marketers, data scientists, and businesses seeking to gain valuable insights from the vast landscape of online information.
 
 
